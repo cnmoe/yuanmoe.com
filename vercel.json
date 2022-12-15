@@ -1,0 +1,11 @@
+{
+  "github": {
+    "silent": true
+  },
+  "version": 2,
+  "routes": [
+    {
+      "handle": "filesystem"
+    }
+  ]
+}
